@@ -1,5 +1,5 @@
 # AddSiteUbuntuNginx
-Add a site to nginx on an Ubuntu server script
+Add a site to nginx on an Ubuntu server using a template.
 
 This script was written quickly for a client who wanted to be able to add sites to his nginx server.  Please note it is not foolproof and is missing quite a bit of error checking.  If you use this you do so at your own risk.
 
